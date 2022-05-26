@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Lab_4.2_Tests.cpp
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Coder.h(23,21): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Coder.h(75,21): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Coder.h(83,21): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Debug\Lab_4.2_Tests.lib and object D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Debug\Lab_4.2_Tests.exp
+  Lab_4.2_Tests.vcxproj -> D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.2\Debug\Lab_4.2_Tests.dll
