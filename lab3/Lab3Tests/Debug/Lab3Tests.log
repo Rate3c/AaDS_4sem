@@ -1,0 +1,23 @@
+﻿  Lab3Tests.cpp
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\DijkstrasAlgorithm.h(66,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\DijkstrasAlgorithm.h(119,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\DijkstrasAlgorithm.h(138,23): warning C4018: '<': signed/unsigned mismatch
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\List.h(106,41): warning C4018: '<=': signed/unsigned mismatch
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\List.h(105): message : while compiling class template member function 'T List<T>::at(size_t)'
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\DijkstrasAlgorithm.h(140): message : see reference to function template instantiation 'T List<T>::at(size_t)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\DijkstrasAlgorithm.h(131): message : see reference to class template instantiation 'List<T>' being compiled
+          with
+          [
+              T=int
+          ]
+D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\List.h(115,24): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\Debug\Lab3Tests.lib and object D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\Debug\Lab3Tests.exp
+  Lab3Tests.vcxproj -> D:\VisualStudio\My Projects\AsDS\AaDS_Lab4.3\Debug\Lab3Tests.dll
