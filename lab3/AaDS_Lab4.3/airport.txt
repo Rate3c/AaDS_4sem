@@ -1,0 +1,7 @@
+NYC; Rome; 105; 155
+Madrid; Washington; 400; 250
+Oslo; Madrid; 140; N/A
+Paris; NYC; N/A; 80
+Moscow; Saint-Peterburg; N/A; N/A
+Sydney; LA; 3200; 1400
+LA; Rio; 1200; 900
