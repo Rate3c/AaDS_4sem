@@ -1,0 +1,11 @@
+S D 3
+D F 4
+E B 1
+E T 1
+S B 3
+D E 2
+F T 2
+C S 3
+C D 1
+B C 4
+C E 2
